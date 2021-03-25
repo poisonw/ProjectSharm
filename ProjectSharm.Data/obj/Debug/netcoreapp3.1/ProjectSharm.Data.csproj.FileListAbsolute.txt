@@ -1,0 +1,12 @@
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.csprojAssemblyReference.cache
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.AssemblyInfoInputs.cache
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.AssemblyInfo.cs
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\bin\Debug\netcoreapp3.1\ProjectSharm.Data.deps.json
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\bin\Debug\netcoreapp3.1\ProjectSharm.Data.runtimeconfig.json
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\bin\Debug\netcoreapp3.1\ProjectSharm.Data.runtimeconfig.dev.json
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\bin\Debug\netcoreapp3.1\ProjectSharm.Data.dll
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\bin\Debug\netcoreapp3.1\ProjectSharm.Data.pdb
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.dll
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.pdb
+C:\Users\Poison\source\repos\ProjectSharm\ProjectSharm.Data\obj\Debug\netcoreapp3.1\ProjectSharm.Data.genruntimeconfig.cache
