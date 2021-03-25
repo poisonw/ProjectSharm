@@ -7,7 +7,7 @@ namespace ProjectSharm.Domain.Interfaces
 {
     public interface IProduct
     {
-        Product GetProductId { get; set; }
+        Product GetProductId();
         IEnumerable<Product> GetAllProduct();
 
     }

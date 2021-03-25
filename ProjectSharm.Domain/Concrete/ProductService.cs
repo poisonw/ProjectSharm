@@ -8,10 +8,12 @@ namespace ProjectSharm.Domain.Concrete
 {
     public class ProductService : IProduct
     {
+        public IEnumerable<Product> GetAllProduct()
+        {
+            throw new NotImplementedException();
+        }
 
-        Product GetProductId()
-        { }
-        IEnumerable<Product> GetAllProduct()
+        public Product GetProductId()
         {
             throw new NotImplementedException();
         }
